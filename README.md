@@ -1,121 +1,69 @@
 
 <div align="center">
-  <img src="./github-banner.png" width="100%" alt="Buqra An Fardeena — Data Science and AI at UniMAP">
+  <img src="./github-banner.png" width="100%" alt="Buqra An Fardeena - Data Science and AI Student">
 
   <h2>🌸 Hi, I'm Buqra An Fardeena</h2>
   <p><b>Data Science & Artificial Intelligence Student at UniMAP</b></p>
   <p>Turning data into meaningful insights, one project at a time.</p>
 
-  <img src="https://img.shields.io/badge/Python-rose?style=for-the-badge&logo=python&logoColor=white&color=C87991">
-  <img src="https://img.shields.io/badge/SQL-rose?style=for-the-badge&logo=postgresql&logoColor=white&color=B98191">
-  <img src="https://img.shields.io/badge/Power_BI-rose?style=for-the-badge&logo=powerbi&logoColor=white&color=D5A0AC">
+  <img src="https://img.shields.io/badge/Python-C87991?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL-B98191?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Power_BI-D5A0AC?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI">
+  <img src="https://img.shields.io/badge/Machine_Learning-C87991?style=for-the-badge" alt="Machine Learning">
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 👋 Hi, I'm Buqra
-
-🎓 Data Science (Artificial Intelligence) Student  
-📊 Interested in Data Analytics, Machine Learning & AI  
-💻 Python | SQL | Power BI | Pandas | Scikit-learn
 
 ---
 
-## 📊 ✧ Data Science Projects ✧
+## 🎓 About Me
+
+- 🎓 Bachelor's in Data Science (Artificial Intelligence) at UniMAP
+- 💻 Diploma in Computer Engineering
+- 📊 Interested in Data Analytics, Machine Learning and AI
+- 🌷 Learning by building practical projects
+
+---
+
+## 📊 Data Science Projects
 
 | Project | Tech Stack | Category |
 |---|---|---|
-| 📊 Student Performance Analysis | Python • Pandas • Matplotlib | Data Analysis |
-| 🎵 Spotify Analysis | Python • Pandas • Visualization | Data Analysis |
-| 🛍️ Watsons Beauty Analytics | Python • Regression • Visualization | Business Analytics |
-| 🧹 Data Quality Profiling | Python • Pandas • ydata-profiling | Data Quality |
-| 🤖 KNN Classification | Python • Scikit-learn | Machine Learning |
+| Student Performance Analysis | Python, Pandas, Matplotlib | Data Analysis |
+| Spotify Analysis | Python, Pandas, Visualisation | Data Analysis |
+| Watsons Beauty Analytics | Python, Regression, Visualisation | Business Analytics |
+| Data Quality Profiling | Python, Pandas | Data Quality |
 
----
-
-## 🧠 ✧ Machine Learning Projects ✧
+## 🧠 Machine Learning
 
 | Project | Tech Stack | Focus |
 |---|---|---|
-| 🤖 KNN Classification | Python • Scikit-learn | Classification |
-| 🌳 Decision Tree | Python • Scikit-learn | Classification |
-| 📈 Regression Analysis | Python • Scikit-learn | Prediction |
-
----
-
-## 💻 ✧ Other Projects ✧
-
-| Project | Technology | Type |
-|---|---|---|
-| 🌐 Personal Portfolio | HTML • CSS • JavaScript | Web |
-| 🤖 Smart System Project | Arduino • ESP32 | IoT |
-| 📱 Mobile Application | Flutter | App Development |
-
----
+| KNN Classification | Python, Scikit-learn | Classification |
+| Decision Tree | Python, Scikit-learn | Classification |
+| Regression Analysis | Python, Scikit-learn | Prediction |
+| AI Customer Review Intelligence | Python, NLP | Sentiment Analysis |
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python • C/C++ • SQL
+**Languages:** Python · C/C++ · SQL
 
-**Data:** Pandas • NumPy • Matplotlib • Scikit-learn
+**Data Science:** Pandas · NumPy · Scikit-learn
 
-**Tools:** Jupyter • Google Colab • Git • GitHub • VS Code
+**Visualisation:** Power BI · Matplotlib · Chart.js
 
-**Visualization:** Power BI • Matplotlib • Chart.js
+**Tools:** Jupyter Notebook · Google Colab · Git · GitHub · VS Code
 
 ---
 
 ## 📫 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN) • [GitHub](YOUR_GITHUB)
+<div align="center">
+  <a href="https://github.com/ffarddna">
+    <img src="https://img.shields.io/badge/GitHub-ffarddna-C87991?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-B98191?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
+
+<div align="center">
+  <i>♡ Keep learning · Keep building · Keep growing ♡</i>
+</div>
