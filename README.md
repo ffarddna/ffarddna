@@ -1,24 +1,15 @@
 
-
 <div align="center">
-  <img src="./github-banner.png" width="100%" alt="Buqra An Fardeena — Data Science and AI Student at UniMAP">
+  <img src="./github-banner.png" width="100%" alt="Buqra An Fardeena — Data Science and AI at UniMAP">
+
+  <h2>🌸 Hi, I'm Buqra An Fardeena</h2>
+  <p><b>Data Science & Artificial Intelligence Student at UniMAP</b></p>
+  <p>Turning data into meaningful insights, one project at a time.</p>
+
+  <img src="https://img.shields.io/badge/Python-rose?style=for-the-badge&logo=python&logoColor=white&color=C87991">
+  <img src="https://img.shields.io/badge/SQL-rose?style=for-the-badge&logo=postgresql&logoColor=white&color=B98191">
+  <img src="https://img.shields.io/badge/Power_BI-rose?style=for-the-badge&logo=powerbi&logoColor=white&color=D5A0AC">
 </div>
-
-<h3 align="center">Hi, I'm Buqra An Fardeena 👋</h3>
-
-<p align="center">
-  Data Science & Artificial Intelligence Student at UniMAP
-  <br>
-  Turning data into meaningful insights, one project at a time. 🌸
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Data%20Science-pink?style=flat-square">
-  <img src="https://img.shields.io/badge/SQL-Analytics-rose?style=flat-square">
-  <img src="https://img.shields.io/badge/Machine%20Learning-AI-pink?style=flat-square">
-  <img src="https://img.shields.io/badge/Power%20BI-Visualisation-rose?style=flat-square">
-</p>
-
 
 
 
