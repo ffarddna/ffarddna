@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="images/profile.jpg" alt="[Your name] profile picture or banner" width="480">
+  <img src="images/profile.jpg" alt=" " width="480">
 </p>
 
 <h3 align="center">Hi, I'm Buqra An Fardeena 👋</h3>
