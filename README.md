@@ -35,6 +35,46 @@ I turn messy data into models, dashboards and tools that people can actually use
 - 📍 Based in: Penang, Malaysia
 
 ---
+## 🏆 ✦ Hackathons and Team Projects ✦
+
+| Event or team project | My role | Links |
+|:--|:--|:--:|
+| [Event name, year] | [What you built or led] | 🔜 |
+
+---
+
+## 📑 ✦ Certifications ✦
+
+Delete any line until you have actually earned it.
+
+🏅 Azure AI Fundamentals (AI-900) — 🔜 credential link  
+🏅 Machine Learning Specialization (Coursera) — 🔜 credential link  
+🏅 Salesforce Trailhead badges — 🔜 profile link  
+🏅 UiPath Academy RPA fundamentals — 🔜 credential link  
+🏅 [DeepLearning.AI short course name] — 🔜 credential link  
+
+---
+
+## 🛠️ ✦ Technical Skills ✦
+
+Only list what you can explain in an interview.
+
+**Languages and data**  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=sqlite&logoColor=white&style=flat) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat) ![pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white&style=flat) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat) ![DuckDB](https://img.shields.io/badge/-DuckDB-FFF000?logo=duckdb&logoColor=black&style=flat) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)
+
+**Machine learning**  
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=flat) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat) ![LightGBM](https://img.shields.io/badge/-LightGBM-2E8B57?style=flat) ![SHAP](https://img.shields.io/badge/-SHAP-555555?style=flat)
+
+**GenAI and automation**  
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?logo=huggingface&logoColor=black&style=flat) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logo=langchain&logoColor=white&style=flat) ![n8n](https://img.shields.io/badge/-n8n-EA4B71?logo=n8n&logoColor=white&style=flat) ![UiPath](https://img.shields.io/badge/-UiPath-FA4616?logo=uipath&logoColor=white&style=flat) ![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?logo=salesforce&logoColor=white&style=flat)
+
+**BI and analytics**  
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat) ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white&style=flat) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat)
+
+**Engineering and MLOps**  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat) ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white&style=flat)
+
+--- 
 
 ## 🏦 ✦ Fintech and Banking AI Projects ✦
 
@@ -137,44 +177,6 @@ Selected work from my degree. Each link goes to a repository for that subject or
 
 ---
 
-## 🏆 ✦ Hackathons and Team Projects ✦
-
-| Event or team project | My role | Links |
-|:--|:--|:--:|
-| [Event name, year] | [What you built or led] | 🔜 |
-
----
-
-## 📑 ✦ Certifications ✦
-
-Delete any line until you have actually earned it.
-
-🏅 Azure AI Fundamentals (AI-900) — 🔜 credential link  
-🏅 Machine Learning Specialization (Coursera) — 🔜 credential link  
-🏅 Salesforce Trailhead badges — 🔜 profile link  
-🏅 UiPath Academy RPA fundamentals — 🔜 credential link  
-🏅 [DeepLearning.AI short course name] — 🔜 credential link  
-
----
-
-## 🛠️ ✦ Technical Skills ✦
-
-Only list what you can explain in an interview.
-
-**Languages and data**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) ![SQL](https://img.shields.io/badge/-SQL-003B57?logo=sqlite&logoColor=white&style=flat) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat) ![pandas](https://img.shields.io/badge/-pandas-150458?logo=pandas&logoColor=white&style=flat) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat) ![DuckDB](https://img.shields.io/badge/-DuckDB-FFF000?logo=duckdb&logoColor=black&style=flat) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white&style=flat)
-
-**Machine learning**  
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=flat) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat) ![LightGBM](https://img.shields.io/badge/-LightGBM-2E8B57?style=flat) ![SHAP](https://img.shields.io/badge/-SHAP-555555?style=flat)
-
-**GenAI and automation**  
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?logo=huggingface&logoColor=black&style=flat) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logo=langchain&logoColor=white&style=flat) ![n8n](https://img.shields.io/badge/-n8n-EA4B71?logo=n8n&logoColor=white&style=flat) ![UiPath](https://img.shields.io/badge/-UiPath-FA4616?logo=uipath&logoColor=white&style=flat) ![Salesforce](https://img.shields.io/badge/-Salesforce-00A1E0?logo=salesforce&logoColor=white&style=flat)
-
-**BI and analytics**  
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat) ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat) ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white&style=flat) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat)
-
-**Engineering and MLOps**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat) ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white&style=flat)
 
 ---
 
