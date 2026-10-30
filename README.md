@@ -37,9 +37,11 @@ I turn messy data into models, dashboards and tools that people can actually use
 ---
 ## 🏆 ✦ Hackathons and Team Projects ✦
 
-| Event or team project | My role | Links |
+| Event or Team Project | My Role | Status |
 |:--|:--|:--:|
-| [Event name, year] | [What you built or led] | 🔜 |
+| **DOSM Datathon 2026** – Department of Statistics Malaysia | Datathon Participant – Data Analytics & Problem Solving | ✅ Participated |
+| **UMDAC Datathon 2026** – Universiti Malaya | Datathon Participant – Data Analytics & Team Collaboration | 🚀 Upcoming |
+
 
 ---
 
