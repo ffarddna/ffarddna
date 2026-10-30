@@ -1,17 +1,4 @@
-<!--
-HOW TO USE THIS TEMPLATE (this comment is invisible on GitHub)
 
-1. Create a PUBLIC repository named exactly like your GitHub username
-   (github.com/YOUR-USERNAME/YOUR-USERNAME) and tick "Add a README".
-2. Paste this file in as README.md.
-3. Create a folder called images and upload your photo or banner as images/profile.jpg
-   (or change the image path below).
-4. Search the file for YOUR-, [ ] and square brackets, and replace every placeholder.
-5. The sign 🔜 means "link coming soon". When a project is finished, replace it with
-   [Repo](https://github.com/YOUR-USERNAME/REPO-NAME) • [Demo](https://your-demo-link)
-6. BEFORE you send applications, delete every row and skill that you have not finished or cannot
-   talk about. Five real projects beat twenty empty ones.
--->
 
 <p align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FYOUR-USERNAME&labelColor=%23d9e3f0&countColor=%23697689&style=flat" alt="Profile visitors">
@@ -21,12 +8,12 @@ HOW TO USE THIS TEMPLATE (this comment is invisible on GitHub)
   <img src="images/profile.jpg" alt="[Your name] profile picture or banner" width="480">
 </p>
 
-<h3 align="center">Hi, I'm [Your Name] 👋</h3>
+<h3 align="center">Hi, I'm Buqra An Fardeena 👋</h3>
 
 <p align="center">
-Second-year <b>Data Science (Artificial Intelligence)</b> student at [University Name].<br>
-I am building towards a career in <b>AI and machine learning for banking and fintech</b>:<br>
-credit risk, fraud analytics, GenAI assistants and automation.<br>
+Second-year <b>Data Science (Artificial Intelligence)</b> student at UniMAP.<br>
+I am building towards a career in <b>AI and machine learning h</b>:<br>
+ GenAI assistants and automation.<br>
 I turn messy data into models, dashboards and tools that people can actually use.
 </p>
 
@@ -40,12 +27,12 @@ I turn messy data into models, dashboards and tools that people can actually use
 
 ## ✦ Quick facts
 
-- 🎓 Bachelor in Data Science (Artificial Intelligence) with Honours, [University Name], graduating [Month Year]
+- 🎓 Bachelor in Data Science (Artificial Intelligence) with Honours, Universiti Malaysia Perlis, graduating Nov 2028
 - 💼 Looking for: **Data Science, AI Engineer or Data Analyst internship**
-- 🗓️ Availability: **[Month Year] to [Month Year] ([n] months)**
-- 🔭 Currently building: [Project name]
+- 🗓️ Availability: 
+- 🔭 Currently building: 
 - 🌱 Currently learning: Python, SQL, machine learning, GenAI and MLOps
-- 📍 Based in: [City], Malaysia
+- 📍 Based in: Penang, Malaysia
 
 ---
 
