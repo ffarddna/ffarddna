@@ -12,7 +12,7 @@
 
 <p align="center">
 Second-year <b>Data Science (Artificial Intelligence)</b> student at UniMAP.<br>
-I am building towards a career in <b>AI and machine learning h</b>:<br>
+I am building towards a career in <b>AI and machine learning </b>:<br>
  GenAI assistants and automation.<br>
 I turn messy data into models, dashboards and tools that people can actually use.
 </p>
