@@ -47,13 +47,20 @@ I turn messy data into models, dashboards and tools that people can actually use
 
 ## 📑 ✦ Certifications ✦
 
-Delete any line until you have actually earned it.
+📑 ✦ Certifications ✦
+🏅 Google Advanced Data Analytics Professional Certificate — Google (Issued Oct 2026 | Credential ID: SQEELSDFMLAO)
 
-🏅 Azure AI Fundamentals (AI-900) — 🔜 credential link  
-🏅 Machine Learning Specialization (Coursera) — 🔜 credential link  
-🏅 Salesforce Trailhead badges — 🔜 profile link  
-🏅 UiPath Academy RPA fundamentals — 🔜 credential link  
-🏅 [DeepLearning.AI short course name] — 🔜 credential link  
+🏅 Google Data Analytics Professional Certificate — Google (Issued Oct 2026 | Credential ID: LCWSVR2FUWV9)
+
+🏅 Intermediate Git — DataCamp (Issued May 2026 | Credential ID: 47,238,645)
+
+🏅 Introduction to Data Science in Python — DataCamp (Issued May 2026 | Credential ID: 47,239,004)
+
+🏅 Introduction to GitHub Concepts — DataCamp (Issued Apr 2026 | Credential ID: 47,251,392)
+
+🏅 Introduction to Git — DataCamp (Issued Apr 2026 | Credential ID: 47,228,892)
+
+🏅 Networking Basics — Cisco Networking Academy VIT (Issued Apr 2024)
 
 ---
 
