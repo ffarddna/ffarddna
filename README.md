@@ -88,20 +88,25 @@ Only list what you can explain in an interview.
 
 Selected work from my degree. Each link goes to a repository for that subject or lab.
 
-### 💻 Programming and Software
+### 🎓 Uni Subjects
+
+### 🎓 Uni Subjects
 
 | Subject | What I built or learned | Link |
 |:--|:--|:--:|
-
-| Algorithm and Data Structures | [One line] | 🔜 |
-| Software Development and Maintenance | [One line] | 🔜 |
-
-
-
-
-
-
-
+| **Introduction to Computing & Data Science** | Core principles of computing, data structures, and foundational data science workflows. | 🔜 |
+| **Software Development and Maintenance** | CI/CD integration, automated testing workflows, and software lifecycle maintenance. | [Link](https://github.com/s251593517-sudo/ci-test-lab) |
+| **Data Security** | Data protection methods, encryption standards, and cybersecurity fundamentals. | 🔜 |
+| **Data Visualization** | Dashboards and graphical representations for insights using visual analytics libraries. | 🔜 |
+| **Artificial Intelligence** | Search algorithms, logic systems, and intelligent agent implementations. | [Link](https://github.com/ffarddna/unimap-artificial-intelligence-lab) |
+| **Computer Vision** | Image processing, feature extraction, and computer vision models. | 🔜 |
+| **Machine Learning** | Supervised and unsupervised machine learning models and evaluation metrics. | 🔜 |
+| **Deep Learning** | Neural network architectures, deep learning frameworks, and model optimization. | 🔜 |
+| **Business Analytics** | Data-driven decision-making, predictive analytics, and business intelligence models. | 🔜 |
+| **Natural Language Processing** | Text processing, language modeling, and NLP pipelines. | 🔜 |
+| **Data Science Project** | End-to-end data science application solving real-world domain problems. | 🔜 |
+| **Probability and Statistics** | Statistical inference, probability distributions, and data analysis methods. | 🔜 |
+| **Mathematics for Machine Learning** | Linear algebra, calculus, and optimization algorithms core to ML. | 🔜 |
 
 
 
