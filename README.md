@@ -84,6 +84,26 @@ Only list what you can explain in an interview.
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white&style=flat) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat) ![MLflow](https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white&style=flat)
 
 --- 
+## 📚 ✦ University Subjects and Labs ✦
+
+Selected work from my degree. Each link goes to a repository for that subject or lab.
+
+### 💻 Programming and Software
+
+| Subject | What I built or learned | Link |
+|:--|:--|:--:|
+
+| Algorithm and Data Structures | [One line] | 🔜 |
+| Software Development and Maintenance | [One line] | 🔜 |
+
+
+
+
+
+
+
+
+
 
 ## 🏦 ✦ Fintech and Banking AI Projects ✦
 
@@ -120,20 +140,6 @@ Only list what you can explain in an interview.
 > Status key: ✅ finished • 🛠️ in progress • 🔜 planned
 
 ---
-
-## 📚 ✦ University Subjects and Labs ✦
-
-Selected work from my degree. Each link goes to a repository for that subject or lab.
-
-### 💻 Programming and Software
-
-| Subject | What I built or learned | Link |
-|:--|:--|:--:|
-| Foundation of Programming | [One line about your best lab or assignment] | 🔜 |
-| Object Oriented Programming | [One line] | 🔜 |
-| Algorithm and Data Structures | [One line] | 🔜 |
-| Systems Analysis and Design | [One line] | 🔜 |
-| Software Development and Maintenance | [One line] | 🔜 |
 
 ### 🗄️ Data and Databases
 
